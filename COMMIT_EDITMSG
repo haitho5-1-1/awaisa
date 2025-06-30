@@ -1,0 +1,7 @@
+Prevent model training when data lacks price direction variation
+
+Adds a check to skip training if labels have only one class and improves error feedback.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 2ca7428c-7afb-4c65-a66f-faf3dc085c3a
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/aaea5445-6e58-4477-8a9e-5d180af61cda/5d5c83e0-4a27-4b4b-905b-785114fe492e.jpg
